@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mtl-lotr-walkcity/static/css/main.f855e6bc.css",
-    "main.js": "/mtl-lotr-walkcity/static/js/main.8fc7d1bb.js",
+    "main.css": "/mtl-lotr-walkcity/static/css/main.f9dbc9e4.css",
+    "main.js": "/mtl-lotr-walkcity/static/js/main.e8fb1e18.js",
     "static/js/453.3e058452.chunk.js": "/mtl-lotr-walkcity/static/js/453.3e058452.chunk.js",
     "static/media/lotr-folks.png": "/mtl-lotr-walkcity/static/media/lotr-folks.0f79e997be3df5c1cb78.png",
     "index.html": "/mtl-lotr-walkcity/index.html",
-    "main.f855e6bc.css.map": "/mtl-lotr-walkcity/static/css/main.f855e6bc.css.map",
-    "main.8fc7d1bb.js.map": "/mtl-lotr-walkcity/static/js/main.8fc7d1bb.js.map",
+    "main.f9dbc9e4.css.map": "/mtl-lotr-walkcity/static/css/main.f9dbc9e4.css.map",
+    "main.e8fb1e18.js.map": "/mtl-lotr-walkcity/static/js/main.e8fb1e18.js.map",
     "453.3e058452.chunk.js.map": "/mtl-lotr-walkcity/static/js/453.3e058452.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8fc7d1bb.js"
+    "static/css/main.f9dbc9e4.css",
+    "static/js/main.e8fb1e18.js"
   ]
 }
